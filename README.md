@@ -1,6 +1,6 @@
 ## Template
 #### Template
-***By Andrew Lawson © 2021***
+***By Andrew Lawson & Zack Rutledge © 2021***
 
 ## *Description:*
 
@@ -11,12 +11,7 @@
 
 ## *Setup Instructions:*
 
-1. Copy https://github.com/andyL89/template-repo.
-2. Run `$ git clone https://github.com/andyL89/template-repo` in the terminal to add directory to your computer.
-3. Navigate to the top level of the directory.
-4. Install packages locally by running `$ npm install` in the terminal.
-5. Create production environment by running `$ npm run build` in the terminal.
-5. View project in browser by running `$ npm run start`.
+
 
 ## *Tecnologies Used:*
 * @babel/core 7.6.4
@@ -47,4 +42,5 @@
 
 ## Contact Information
 
-Andrew Lawson : alawson89@gmail.com
+Andrew Lawson : <alawson89@gmail.com>
+Zack Rutledge : <Thorgrim88@gmail.com>
